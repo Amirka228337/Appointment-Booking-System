@@ -35,9 +35,9 @@ Each appointment includes:
 ## 🖥️ How It Works
 
 ```
-Main.java — Entry point for the system
-Appointment.java — Appointment object definition
-AppointmentManager.java — Logic for adding, updating, listing appointments
+Main.java — Точка входа в приложение
+Appointment.java — Определение объекта встречи
+AppointmentManager.java — Логика добавления, обновления и отображения встреч
 ```
 
 ---
@@ -47,37 +47,37 @@ AppointmentManager.java — Logic for adding, updating, listing appointments
 ### ➕ Add Appointment
 
 ```
-Enter name: Aijan
-Choose profession: Doctor
-Enter date (yyyy-mm-dd): 2025-05-15
-Appointment booked.
+Введите имя: Айжан
+Выберите профессию: Врач
+Введите дату (гггг-мм-дд): 2025-05-15
+Встреча успешно забронирована.
 ```
 
 ### ❌ Cancel Appointment
 
 ```
-Enter ID to cancel: 1
-Appointment cancelled.
+Введите ID для отмены: 1
+Встреча отменена.
 ```
 
 ### ✅ Accept Appointment
 
 ```
-Enter ID to accept: 2
-Appointment accepted.
+Введите ID для подтверждения: 2
+Встреча подтверждена.
 ```
 
 ### 📋 View Appointments by Status
 
 ```
---- Pending Appointments ---
-ID: 3 | Name: Timur | Profession: Barber | Date: 2025-05-18
+--- Ожидающие встречи ---
+ID: 3 | Имя: Тимур | Профессия: Парикмахер | Дата: 2025-05-18
 
---- Accepted Appointments ---
-ID: 2 | Name: Armen | Profession: Lawyer | Date: 2025-05-17
+--- Принятые встречи ---
+ID: 2 | Имя: Армен | Профессия: Юрист | Дата: 2025-05-17
 
---- Cancelled Appointments ---
-ID: 1 | Name: Aijan | Profession: Doctor | Date: 2025-05-15
+--- Отменённые встречи ---
+ID: 1 | Имя: Айжан | Профессия: Врач | Дата: 2025-05-15
 ```
 
 ---
