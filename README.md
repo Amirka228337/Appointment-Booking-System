@@ -74,7 +74,7 @@ Appointment accepted.
 ID: 3 | Name: Timur | Profession: Barber | Date: 2025-05-18
 
 --- Accepted Appointments ---
-ID: 2 | Name: Bektur | Profession: Lawyer | Date: 2025-05-17
+ID: 2 | Name: Armen | Profession: Lawyer | Date: 2025-05-17
 
 --- Cancelled Appointments ---
 ID: 1 | Name: Aijan | Profession: Doctor | Date: 2025-05-15
